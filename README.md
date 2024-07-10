@@ -1,5 +1,7 @@
 # Analyzing COVID-19 Mortality and Pre-Existing Health with SQL
 
+![cover_image](https://github.com/georgembugua00/SQL-Project/assets/151632200/35c464b8-3161-4b18-9777-3de6747516f0)
+
 This project leverages the power of SQL, executed through Microsoft SQL Server Management Studio (SSMS), to investigate the potential role of pre-existing health conditions in COVID-19 mortality disparities across countries. SSMS serves as a robust platform for data exploration and manipulation throughout this analysis.
 
 # Project Methodology:
