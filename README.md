@@ -1,8 +1,8 @@
-# Unveiling the Link: Pre-Existing Health and COVID-19 Mortality with SQL (using Microsoft SQL Server Management Studio)
+# Analyzing COVID-19 Mortality and Pre-Existing Health with SQL
 
 This project leverages the power of SQL, executed through Microsoft SQL Server Management Studio (SSMS), to investigate the potential role of pre-existing health conditions in COVID-19 mortality disparities across countries. SSMS serves as a robust platform for data exploration and manipulation throughout this analysis.
 
-## Project Methodology:
+# Project Methodology:
 
 **Data Acquisition:** Secure high-quality datasets from reputable sources like Our World in Data (COVID-19 deaths) and public health databases (pre-existing health conditions).
 
@@ -13,7 +13,7 @@ This project leverages the power of SQL, executed through Microsoft SQL Server M
 **Exploratory Data Analysis (EDA):** Craft and execute SQL queries within SSMS to uncover initial trends and relationships between pre-existing health conditions and COVID-19 mortality rates. This may involve data visualizations to identify potential patterns.
 
 
-## Expected Outcomes:
+# Expected Outcomes:
 
 Identify statistically significant correlations between pre-existing health conditions and COVID-19 mortality rates.
 
@@ -29,7 +29,7 @@ Gain data-driven insights into how pre-existing health vulnerabilities contribut
 
 **Exploratory Data Analysis (EDA) using SQL:** Skilled in crafting and executing SQL queries within SSMS to uncover initial trends and relationships within data.
 
-**Data Visualization (Implicit):** Skilled in preparing data for visualization tools to communicate insights effectively.
+# Tableau Dashboard
 
 <img width="814" alt="Dashboard 4" src="https://github.com/georgembugua00/SQL-Project/assets/151632200/f768d1a5-ce5f-4aa6-83af-f48f9f08e726">
 
@@ -38,24 +38,32 @@ The dashboard above communicates the following about the COVID-19 Pandemic.
 
 **1.Total Deaths per Continent:**
 
-Asia has the highest number of total deaths followed by Europe and North America.
-Africa and Oceania have the lowest number of total deaths.
-Total Vaccinations per Continent:
+ - Asia has the highest number of total deaths followed by Europe and North America.
+ - Africa and Oceania have the lowest number of total deaths.
 
-The map indicates the distribution of vaccinations across different continents. It appears that Asia has the highest total vaccinations, suggesting significant vaccination efforts in densely populated regions like China and India.
-Other continents such as Europe and North America also have high vaccination numbers, whereas Africa shows lower vaccination totals.
+**2.Total Vaccinations per Continent:**
 
-**2.Total Cases per Continent:**
+ - The map indicates the distribution of vaccinations across different continents. It appears that Asia has the highest total vaccinations, suggesting significant vaccination efforts in densely populated regions like China and India.
 
-Europe has the highest total cases, followed closely by Asia.
-North America also has a significant number of total cases.
-Africa and Oceania have the lowest total cases, similar to the pattern observed in the total deaths.
-COVID Infections Count per Continent:
+ - Other continents such as Europe and North America also have high vaccination numbers, whereas Africa shows lower vaccination totals.
+
+**3.Total Cases per Continent:**
+
+ - Europe has the highest total cases, followed closely by Asia.
+
+ - North America also has a significant number of total cases.
+
+ - Africa and Oceania have the lowest total cases, similar to the pattern observed in the total deaths.
+
+**4.COVID Infections Count per Continent:**
 
 The line graph shows the average highest infection count per continent over time.
-Asia and Europe have experienced the highest peaks in infections, with notable increases during certain periods.
-North America also shows a significant number of infections, but with a slightly different trend.
-Africa and South America have lower average infection counts but still show rising trends at different points.
+
+ - Asia and Europe have experienced the highest peaks in infections, with notable increases during certain periods.
+
+ - North America also shows a significant number of infections, but with a slightly different trend.
+
+ - Africa and South America have lower average infection counts but still show rising trends at different points.
 
 **Key Takeaways:**
 
@@ -69,5 +77,6 @@ Vaccination Efforts: Vaccination efforts are substantial in Asia and Europe, pot
 # Conclusion
 
 This project not only showcases my technical proficiency in SQL but also your ability to leverage SSMS as a platform for data exploration and manipulation. By combining your expertise with data acquisition, wrangling, integration, and analysis, you aim to generate data-driven insights that can contribute valuable knowledge to the fight against COVID-19. 
+
 This comprehensive approach demonstrates my value as an asset to any data-driven team.
 This version uses more formal language, emphasizes my ability to leverage SSMS effectively, and highlights the broader impact of your project on public health strategies.
