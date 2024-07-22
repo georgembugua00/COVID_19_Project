@@ -1,4 +1,4 @@
-# Analyzing COVID-19 Mortality and Pre-Existing Health with SQL
+# Analyzing COVID-19 Mortality and Pre-Existing Health with SQL and Tableau
 
 ![cover_image](https://github.com/georgembugua00/SQL-Project/assets/151632200/35c464b8-3161-4b18-9777-3de6747516f0)
 
